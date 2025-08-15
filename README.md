@@ -88,3 +88,31 @@ These are the 3 sensor IDs I’ll use to get temperature data:
 - `5eba5fbad46fb8001b799786`
 - `5c21ff8f919bf8001adf2488`
 - `5ade1acf223bd80019a1011c`
+
+# HiveBox – Phase 2: Version Print + Docker 🐳
+
+This phase adds the first working version of the HiveBox app.
+
+---
+
+## ✅ What Was Built
+
+- A Python script that prints the app version
+- A `VERSION` file to manage the version number (v0.0.1)
+- A Dockerfile to run the app in a container
+- Simple test to confirm it's working
+- Basic documentation (this file)
+
+---
+
+## 🧠 Goal
+
+Create a minimal app that:
+
+- Reads version from a file
+- Prints it
+- Runs inside a Docker container
+
+---
+
+## 🗂 Project Structure (So Far)
