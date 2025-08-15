@@ -11,8 +11,7 @@
   </a>
 </p>
 
-> [!CAUTION]
-> **[Fork](https://github.com/DevOpsHiveHQ/devops-hands-on-project-hivebox/fork)** this repo, and create PRs in your fork, **NOT** in this repo!
+> [!CAUTION] > **[Fork](https://github.com/DevOpsHiveHQ/devops-hands-on-project-hivebox/fork)** this repo, and create PRs in your fork, **NOT** in this repo!
 
 > [!TIP]
 > If you are looking for the full roadmap, including this project, go back to the [getting started](https://devopsroadmap.io/getting-started) page.
@@ -53,3 +52,39 @@ Here is a pre-start checklist:
 ## Implementation
 
 ** ADD YOUR IMPLEMENTATION DOCUMENTATION HERE **
+
+# HiveBox DevOps Project
+
+Hi, I’m building this project as part of my journey into DevOps.
+
+This is a beginner-friendly, step-by-step project that helps me learn real DevOps tools by building something useful: a REST API that shows environmental data for beekeepers 🐝.
+
+## What This Project Is About
+
+- Get temperature data from **openSenseMap** sensors
+- Show that data in a simple API
+- Build and test everything using Git, Docker, and modern DevOps tools
+- Deploy it like a real-world app over multiple phases
+
+## My Role
+
+I'm acting as a **DevOps engineer**:
+
+- Using Git and GitHub to manage my code
+- Writing clean, testable code
+- Tracking work in a Kanban board
+- Creating pull requests for each step
+- Making sure the app is always easy to run, test, and improve
+
+## Agile Methodology
+
+I'm using **Kanban** to stay focused and avoid chaos.
+I update my GitHub Project board after each task.
+
+## Sensors Used
+
+These are the 3 sensor IDs I’ll use to get temperature data:
+
+- `5eba5fbad46fb8001b799786`
+- `5c21ff8f919bf8001adf2488`
+- `5ade1acf223bd80019a1011c`
